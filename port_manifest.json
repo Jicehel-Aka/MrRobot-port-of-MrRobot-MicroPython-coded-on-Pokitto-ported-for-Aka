@@ -1,0 +1,19 @@
+{
+  "schema_version": 1,
+  "id": "mrrobot",
+  "title": "Mr Robot",
+  "version": "0.1.0",
+  "platform": "Pokitto (MicroPython)",
+  "port_level": "raw",
+  "author": "Hannu Viitala",
+  "porter": "AKA Port Studio",
+  "license": "MIT",
+  "copyright": "Hannu Viitala",
+  "source_repository": "https://github.com/haviital/MrRobot",
+  "description": "Jeu MicroPython autonome (esquive de fusees) -- necessite le module de compatibilite upygame (en cours de developpement).",
+  "supports_save": true,
+  "supports_screenshot": true,
+  "supports_languages": true,
+  "save_directory": "/sdcard/mrrobot/",
+  "status": "upygame/umachine/urandom + son natif (aka.play_pcm8) ecrits, jamais testes sur materiel reel -- premiere compilation a faire."
+}

@@ -1,0 +1,7 @@
+{
+  "CTRL_MOVE": "Arrows: dodge left/right",
+  "CTRL_MENU_SHORT": "MENU (short): this menu",
+  "CTRL_MENU_LONG": "MENU (long): screenshot",
+  "CTRL_QUIT": "RUN + MENU: quit",
+  "CTRL_START": "A: start / restart"
+}

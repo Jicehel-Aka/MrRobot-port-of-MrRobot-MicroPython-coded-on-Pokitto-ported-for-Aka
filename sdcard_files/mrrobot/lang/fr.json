@@ -1,0 +1,7 @@
+{
+  "CTRL_MOVE": "Fleches : esquiver gauche/droite",
+  "CTRL_MENU_SHORT": "MENU (court) : ce menu",
+  "CTRL_MENU_LONG": "MENU (long) : capture ecran",
+  "CTRL_QUIT": "RUN + MENU : quitter",
+  "CTRL_START": "A : demarrer / recommencer"
+}
